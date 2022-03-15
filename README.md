@@ -2,16 +2,16 @@
 
 | Type        | Difficulty | Name                                                      |
 |-------------|------------|-----------------------------------------------------------|
-| Array       | Easy       | Two Sum                                                   |
-| Array       | Easy       | Best Time to Buy and Sell Stock                           |
-| Array       | Easy       | Contains Duplicate                                        |
-| Array       | Easy       | Maximum Subarray                                          |
-| Array       | Medium     | Product of Array Except Self                              |
-| Array       | Medium     | Maximum Product Subarray                                  |
-| Array       | Medium     | Find Minimum in Rotated Sorted Array                      |
-| Array       | Medium     | Search in Rotated Sorted Array                            |
-| Array       | Medium     | 3 Sum                                                     |
-| Array       | Medium     | Container with Most Water                                 |
+| Array       | Easy       | [Two Sum](https://leetcode.com/problems/two-sum/)                                                   |
+| Array       | Easy       | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)                           |
+| Array       | Easy       | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)                                        |
+| Array       | Easy       | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)                                          |
+| Array       | Medium     | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)                              |
+| Array       | Medium     | [Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/)                                  |
+| Array       | Medium     | [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/)                      |
+| Array       | Medium     | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)                            |
+| Array       | Medium     | [3 Sum](https://leetcode.com/problems/3sum/)                                                     |
+| Array       | Medium     | [Container with Most Water](https://leetcode.com/problems/container-with-most-water/)                                 |
 | Binary      | Easy       | Number of 1 Bits                                          |
 | Binary      | Easy       | Counting Bits                                             |
 | Binary      | Easy       | Missing Number                                            |
